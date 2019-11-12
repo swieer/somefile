@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>metadata</key>
+			<dict>
+				<key>kind</key>
+				<string>software</string>
+				<key>bundle-version</key>
+				<string>1.0.2</string>
+				<key>title</key>
+				<string>AilinkTest</string>
+				<key>bundle-identifier</key>
+				<string>com.changhong.alilink.test</string>
+			</dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>url</key>
+					<string>10.129.25.33:8000/app/TopMobiCoreDemo.ipa</string>
+					<key>kind</key>
+					<string>software-package</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
